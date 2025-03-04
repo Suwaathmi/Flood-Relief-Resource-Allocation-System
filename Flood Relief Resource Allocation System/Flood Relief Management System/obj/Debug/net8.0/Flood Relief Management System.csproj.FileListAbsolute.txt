@@ -1,0 +1,15 @@
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.AssemblyInfoInputs.cache
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.AssemblyInfo.cs
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.csproj.CoreCompileInputs.cache
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\bin\Debug\net8.0\Flood Relief Management System.exe
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\bin\Debug\net8.0\Flood Relief Management System.deps.json
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\bin\Debug\net8.0\Flood Relief Management System.runtimeconfig.json
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\bin\Debug\net8.0\Flood Relief Management System.dll
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\bin\Debug\net8.0\Flood Relief Management System.pdb
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.dll
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\refint\Flood Relief Management System.dll
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.pdb
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.genruntimeconfig.cache
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\ref\Flood Relief Management System.dll
+C:\Users\Suwaathmi Ravindran\OneDrive\Desktop\Flood Relief Management System\Flood Relief Management System\obj\Debug\net8.0\Flood Relief Management System.sourcelink.json

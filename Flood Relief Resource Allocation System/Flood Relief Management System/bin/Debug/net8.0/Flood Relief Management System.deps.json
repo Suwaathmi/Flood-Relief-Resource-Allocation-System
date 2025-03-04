@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Flood Relief Management System/1.0.0": {
+        "runtime": {
+          "Flood Relief Management System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flood Relief Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
